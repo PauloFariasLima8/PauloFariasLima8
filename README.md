@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://www.instagram.com/paulofariaslima8/">
-   <img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram-new" alt="instagram-new" alt="instagram-new--v1" alt="page views"/>
+   <img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram-new" alt="instagram-new" alt="instagram-new--v1" alt="page views" width="50"/>
   </a>
   <a href="http://lattes.cnpq.br/6661685180028302">
    <img src="https://img.icons8.com/stickers/50/plataforma-lattes.png" alt="lattes" alt="page views" width="50"/>
