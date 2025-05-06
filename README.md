@@ -8,14 +8,15 @@
 
 
 
-<h3 align="left">Estudante e DevOps</h3>
+<h3 align="left">Sobre Min</h3>
 
+> Instagram e CV Lattes.
 <p align="left">
   <a href="https://www.instagram.com/paulofariaslima8/">
    <img src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram-new" alt="instagram-new" alt="instagram-new--v1" alt="page views" width="50"/>
   </a>
   <a href="http://lattes.cnpq.br/6661685180028302">
-   <img src="https://img.icons8.com/stickers/50/plataforma-lattes.png" alt="lattes" alt="page views" width="50"/>
+   <img src="https://img.icons8.com/stickers/50/plataforma-lattes.png" alt="lattes" alt="page views" width="40"/>
   </a>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -44,5 +45,17 @@
       <br>VSCode
     </td>
   </tr>
+  <td align="center" width="96">
+  <a href="#macropower-tech">
+  <img src="https://img.icons8.com/external-sbts2018-flat-sbts2018/58/external-linux-basic-ui-elements-2.4-sbts2018-flat-sbts2018.png"/>
+  </a>
+  <br>Linux
+  </td>
+   <td align="center" width="96">
+  <a href="#macropower-tech">
+  <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/50/external-bootstrap-a-free-and-open-source-css-framework-logo-tritone-tal-revivo.png"/>
+  </a>
+  <br>Bootstrap
+  </td>
 </table>
 
