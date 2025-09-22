@@ -8,6 +8,7 @@
 
 
 
+<h3 align="left"> Certificações </h3>
 <h3 align="left">Sobre Min</h3>
 
 > Instagram e CV Lattes.
