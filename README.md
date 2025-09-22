@@ -9,6 +9,13 @@
 
 
 <h3 align="left"> Certificações </h3>
+<td align="center" width="10">
+  <a href="#macropower-tech"></a>
+  <a href="https://www.credly.com/badges/c529210d-6552-416e-9d4f-ae1d4bdf2ee7/public_url">
+  <img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
+  </a>
+  <br>AWS Cloud Practitoner
+  </td>
 <h3 align="left">Sobre Min</h3>
 
 > Instagram e CV Lattes.
@@ -58,5 +65,25 @@
   </a>
   <br>Bootstrap
   </td>
+  <td align="center" width="70">
+  <a href="#macropower-tech">
+  <img src="https://img.icons8.com/?size=80&id=zFAYIdFZlGxP&format=png&color=000000"/>
+  </a>
+  <br>Docker
+  </td>
+  <tr>
+  <td align="center" width="70">
+  <a href="#macropower-tech">
+  <img src="https://img.icons8.com/?size=80&id=40669&format=png&color=000000"/>
+  </a>
+  <br>CC++
+  </td>
+<td align="center" width="70">
+  <a href="#macropower-tech">
+  <img src="https://img.icons8.com/?size=80&id=laVIsJnTtYoj&format=png&color=000000"/>
+  </a>
+  <br>JavaScript
+  </td>
+  </tr>
 </table>
 
